@@ -1,0 +1,8 @@
+.env
+*.env.*
+# IDE
+.vscode/
+.idea/
+# OS cruft
+.DS_Store
+Thumbs.db
